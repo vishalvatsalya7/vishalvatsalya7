@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on work related to microservices
 - 💬 Ask me about "in process"
-- 📫 How to reach me: vishalvatsalya7@gmai.com
+- 📫 How to reach me: vishalvatsalya7@gmail.com
 - ⚡ Fun fact: otaku
 
